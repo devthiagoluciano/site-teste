@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+* {
+    font-family: 'Syne Mono', monospace;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
+
+body {
+    
+    background-image: linear-gradient(to right, #038C3E, #02735E);
+}
+
+main {
+    
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #000000ab;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #038C3E;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 1px 1px 2px #03642daf;
+}
+
+h2 {
+    font-family: 'Hubballi', cursive;
+    color: #034159;
+}
+
+p {
+    text-align: justify;
+    text-indent: 30px;
+}
+    
+
+    
+    
+
